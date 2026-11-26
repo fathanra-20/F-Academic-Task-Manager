@@ -50,3 +50,6 @@ Untuk membuat bundel produksi:
 ```sh
 npm run build
 ```
+
+## Deployment
+Aplikasi siap di-deploy ke layanan hosting statis seperti Vercel atau Netlify.

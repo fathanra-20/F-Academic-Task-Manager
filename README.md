@@ -15,6 +15,8 @@ Aplikasi web untuk mengelola tugas delapan mata kuliah semester 5 secara terpusa
 
 ![Aplikasi produksi: formulir, tabel tugas, dan dokumentasi teknis](./screenshots/app-preview.png)
 
+![Dokumentasi teknis Git, npm, TypeScript, Vite, dan Environment Variables](./screenshots/tech-docs.png)
+
 ![Pull Request #1 berstatus Merged](./screenshots/pr-merged.png)
 
 ![Grafik branch dan riwayat commit GitHub](./screenshots/network-graph.png)

@@ -1,4 +1,4 @@
-# Sistem Manajemen Tugas Kuliah
+# Sistem Manajemen Tugas Kuliah — Edisi Profil
 
 Aplikasi web untuk mengelola tugas delapan mata kuliah semester 5 secara terpusat.
 

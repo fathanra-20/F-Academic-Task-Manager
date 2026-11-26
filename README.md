@@ -1,4 +1,4 @@
-# Sistem Manajemen Tugas Kuliah — Aplikasi Semester 5
+# Sistem Manajemen Tugas Kuliah Semester 5
 
 Aplikasi web untuk mengelola tugas delapan mata kuliah semester 5 secara terpusat.
 

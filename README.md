@@ -6,6 +6,19 @@ Aplikasi web untuk mengelola tugas delapan mata kuliah semester 5 secara terpusa
 **NIM:** 1247050044 — S1 Teknik Informatika, Semester 5  
 **Profil:** [fathanra.vercel.app](https://fathanra.vercel.app)
 
+## Demo produksi dan repository
+
+- [Live Demo — Sistem Manajemen Tugas Kuliah](https://fathanra-tasks.vercel.app)
+- [Repository GitHub — F-Academic-Task-Manager](https://github.com/fathanra-20/F-Academic-Task-Manager)
+
+## Bukti screenshot
+
+![Aplikasi produksi: formulir, tabel tugas, dan dokumentasi teknis](./screenshots/app-preview.png)
+
+![Pull Request #1 berstatus Merged](./screenshots/pr-merged.png)
+
+![Grafik branch dan riwayat commit GitHub](./screenshots/network-graph.png)
+
 ## Fitur
 
 - CRUD tugas: menambah, mengedit, menandai selesai, dan menghapus tugas.
